@@ -1,0 +1,10 @@
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\bin\Debug\PDisester0030482323023.exe.config
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\bin\Debug\PDisester0030482323023.exe
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\bin\Debug\PDisester0030482323023.pdb
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.csproj.AssemblyReference.cache
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.Properties.Resources.resources
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.csproj.GenerateResource.cache
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.csproj.CoreCompileInputs.cache
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.exe
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.pdb
+C:\Users\pdort\OneDrive - Fatec Centro Paula Souza\02 Semestre\LingProg_02\2024-05-24\PDisester0030482323023\obj\Debug\PDisester0030482323023.frmPrincipal.resources
